@@ -14,9 +14,12 @@ This project aims to predict the manner in which participants performed barbell 
 ## Files Included in the Repository:
       1) pml-training.csv: Training dataset used to build and evaluate the prediction model.
       2) pml-testing.csv: Test dataset used for making final predictions.
-      3) Prediction_Model.Rmd: R Markdown file containing the analysis, model building, cross-validation, and predictions.
-      4) Prediction_Model.html: Compiled HTML version of the R Markdown file for easy viewing.
-      5) README.md: This document
+      3) Practical Machine Learning.Rmd: R Markdown file containing the analysis, model building, cross-validation, and predictions.
+      4) Practical-Machne-Learning.html: Compiled HTML version of the R Markdown file for easy viewing.
+      5) Practical-Machne-Learning.md: a plain text file that uses Markdown language to format text.
+      6) .gitignore file
+      7) Practical-Machne-Learning.Rproj
+      8) README.md: This document
 
 ## Data Set Sources:
 
